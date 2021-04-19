@@ -151,7 +151,9 @@ Buat sebuah file dengan nama `tiket_teller.php` pada folder `aplication/view`
 </script>
 ```
 perintah diatas menampilkan no antrian yang dicetak menggunakan perintah javascript yang kemudian nanti akan kita konfigurasi lebih lanjut untuk ukuran kertas dan nama printer.<br>
-bila program sudah tidak ada kesalahan silahkan jalankan controller Nasabah melalui browser lalu klick tombol teller, bila program berjalan maka no antrian teller akan bertambah 1.
+bila program sudah tidak ada kesalahan silahkan jalankan controller Nasabah<br>
+`http://localhost/teknik_antrian/index.php/nasabah`<br>
+melalui browser lalu klick tombol teller, bila program berjalan maka no antrian teller akan bertambah 1.
 
 
                 
