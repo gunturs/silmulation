@@ -3,6 +3,11 @@
 Pertemuan sebelumnya kita sudah berhasil membuat laman Dashboard dimana laman tersebut menampilkan petugas yang aktif dan no Antrian yang sedang dilayani.
 ![Image]( dasboard.PNG )
 
+Selanjutnya kita akan membuat laman Nasabah untuk mengambil Nomor Antrian 
+![Image]( nasabah.PNG )
+
+dalam hal ini langkah pertama yang kita lakukan adalah merancang tabel baru yang diberi nama nasabah dengan struktur seperti dibawah ini:
+![Image]( tabel_nasabah.PNG )
 ```markdown
 Syntax highlighted code block
 
