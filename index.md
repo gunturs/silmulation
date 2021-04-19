@@ -1,7 +1,7 @@
 # Pratikum Teknik Modulasi
 ## Pertemuan 8: Membuat halaman untuk pengambilan tiket
-Pertemuan sebelumnya kita sudah berhasil membuat laman Dashboard dimana telah berhasil menampilkan petugas yang aktif dan no Antrian yang sedang dilayani.
-[Image]( silmulation/dasboard.PNG )
+Pertemuan sebelumnya kita sudah berhasil membuat laman Dashboard dimana laman tersebut menampilkan petugas yang aktif dan no Antrian yang sedang dilayani.
+![Image]( dasboard.PNG )
 
 ```markdown
 Syntax highlighted code block
